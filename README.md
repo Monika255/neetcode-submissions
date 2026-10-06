@@ -84,12 +84,12 @@ I am solving the NeetCode 150 problems using Python.
 - [x] 04. Group Anagrams
 - [x] 05. Top K Frequent Elements
 - [x] 06. Encode and Decode Strings
-
+- [x] 07. longest sequence of consecutive numbers
 
 ## Two Pointers
 
-- [x] Valid Palindrome
-- [x] Two Sum II – Input Array Is Sorted
+- [x] 08.Valid Palindrome
+- [x] 09.Two Sum II – Input Array Is Sorted
 
 
 
