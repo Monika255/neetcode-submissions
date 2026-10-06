@@ -78,12 +78,19 @@ I am solving the NeetCode 150 problems using Python.
 
 ### Current Progress
 
-- [ ] 01. Contains Duplicate
-- [ ] 02. Valid Anagram
-- [ ] 03. Two Sum
-- [ ] 04. Group Anagrams
-- [ ] 05. Top K Frequent Elements
-- [ ] 06. Encode and Decode Strings
+- [x] 01. Contains Duplicate
+- [x] 02. Valid Anagram
+- [x] 03. Two Sum
+- [x] 04. Group Anagrams
+- [x] 05. Top K Frequent Elements
+- [x] 06. Encode and Decode Strings
+
+
+## Two Pointers
+
+- [x] Valid Palindrome
+- [x] Two Sum II – Input Array Is Sorted
+
 
 
 ### What I'm Learning
